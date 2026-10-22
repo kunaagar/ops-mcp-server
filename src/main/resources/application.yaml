@@ -1,3 +1,7 @@
 spring:
   application:
     name: ops-mcp-server
+  ai:
+    mcp:
+      server:
+        transport: stdio
