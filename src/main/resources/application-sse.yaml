@@ -1,0 +1,11 @@
+server:
+  port: 8181
+
+spring:
+  ai:
+    mcp:
+      server:
+        sse-endpoint: /mcp
+        sse-message-endpoint: /mcp/message
+        protocol: sse
+        version: 1.0.0
