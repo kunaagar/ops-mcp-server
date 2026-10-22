@@ -5,3 +5,7 @@ spring:
     mcp:
       server:
         transport: stdio
+
+app:
+  prometheus:
+    url: http://localhost:9090
