@@ -1,4 +1,4 @@
-package com.ilogic.ai.service;
+package com.ilogic.ai.tools;
 
 import com.ilogic.ai.dto.AuditSummary;
 import com.ilogic.ai.dto.ServerHealth;
