@@ -1,6 +1,8 @@
 spring:
   application:
     name: ops-mcp-server
+  profiles:
+    active: stdio
   ai:
     mcp:
       server:

@@ -1,0 +1,10 @@
+server:
+  port: 8181
+
+spring:
+  ai:
+    mcp:
+      server:
+        protocol: streamable
+        streamable-http:
+          mcp-endpoint: /mcp
