@@ -1,7 +1,7 @@
 package com.ilogic.ai.config;
 
-import com.ilogic.ai.service.OpsToolService;
-import com.ilogic.ai.service.OpsToolLiveService;
+import com.ilogic.ai.tools.OpsToolService;
+import com.ilogic.ai.tools.OpsToolLiveService;
 import org.springframework.ai.tool.ToolCallbackProvider;
 import org.springframework.ai.tool.method.MethodToolCallbackProvider;
 import org.springframework.context.annotation.Bean;

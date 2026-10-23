@@ -1,4 +1,4 @@
-package com.ilogic.ai.service;
+package com.ilogic.ai.prompts;
 
 import io.modelcontextprotocol.spec.McpSchema.GetPromptResult;
 import io.modelcontextprotocol.spec.McpSchema.PromptMessage;

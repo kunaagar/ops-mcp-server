@@ -1,4 +1,4 @@
-package com.ilogic.ai.service;
+package com.ilogic.ai.resources;
 
 import org.springaicommunity.mcp.annotation.McpResource;
 import org.springframework.stereotype.Service;
